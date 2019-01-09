@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\klaudia\politechnika slaska\magisterskie\sem.1\wkiro proj\filtracjadwustronna_wieszczekbednarczykpientahuras\projekt\bilateral\main.cpp(36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\klaudia\politechnika slaska\magisterskie\sem.1\wkiro proj\filtracjadwustronna_wieszczekbednarczykpientahuras\projekt\bilateral\main.cpp(45): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+d:\klaudia\politechnika slaska\magisterskie\sem.1\wkiro proj\filtracjadwustronna_wieszczekbednarczykpientahuras\projekt\bilateral\main.cpp(46): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+d:\klaudia\politechnika slaska\magisterskie\sem.1\wkiro proj\filtracjadwustronna_wieszczekbednarczykpientahuras\projekt\bilateral\main.cpp(47): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+d:\klaudia\politechnika slaska\magisterskie\sem.1\wkiro proj\filtracjadwustronna_wieszczekbednarczykpientahuras\projekt\bilateral\main.cpp(56): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Bilateral.vcxproj -> D:\KLAUDIA\POLITECHNIKA SLASKA\MAGISTERSKIE\sem.1\WKiRO proj\FiltracjaDwustronna_WieszczekBednarczykPientaHuras\PROJEKT\Bilateral\x64\Debug\Bilateral.exe
+  Bilateral.vcxproj -> D:\KLAUDIA\POLITECHNIKA SLASKA\MAGISTERSKIE\sem.1\WKiRO proj\FiltracjaDwustronna_WieszczekBednarczykPientaHuras\PROJEKT\Bilateral\x64\Debug\Bilateral.pdb (Partial PDB)
